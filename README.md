@@ -50,9 +50,9 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 
 ## marka u horeesa waxaa sameesaa 
-
+```python
 cd My-script-
-
+```
 ## marka labaadna 
 
 bash 'My script.sh'
